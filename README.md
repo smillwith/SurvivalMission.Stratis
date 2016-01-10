@@ -1,0 +1,1 @@
+# SurvivalMission.Stratis
